@@ -1,7 +1,5 @@
 # Evenly Split
 
-Annabel Edwards, Macy Bosnich, Emily Wei, Ebube Okonji
-
 ## Design Doc link:
 
 https://docs.google.com/document/d/1mfYuqoxYQvggirwdW_P-PXNbxPQdmBllaW1DdrNIPGo/edit#heading=h.s3ulgzgzkjx8
@@ -32,4 +30,5 @@ python run ./manage.py runserver
 npm i
 npm run build
 npm run start
+
 # evenlySplit
